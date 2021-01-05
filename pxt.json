@@ -1,5 +1,5 @@
 {
-    "name": "AGE",
+    "name": "age",
     "description": "",
     "dependencies": {
         "device": "*",
