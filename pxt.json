@@ -1,5 +1,5 @@
 {
-    "name": "age",
+    "name": "AGE",
     "description": "",
     "dependencies": {
         "device": "*",
@@ -18,7 +18,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.2.16",
+        "target": "1.8.23",
         "targetId": "arcade"
     },
     "supportedTargets": [
