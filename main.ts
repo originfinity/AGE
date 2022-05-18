@@ -329,7 +329,7 @@ controller.down.onEvent(ControllerButtonEvent.Pressed, function () {
     )
 })
 let Hero: Sprite = null
-let Title = textsprite.create("AGE 1.0")
+let Title = textsprite.create("ADVENTURE GAME ENGINE")
 Title.setPosition(82, 56)
 pause(2000)
 Title.destroy()
