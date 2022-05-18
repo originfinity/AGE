@@ -1,5 +1,5 @@
 {
-    "name": "AGE",
+    "name": "Adventure Game Engine",
     "description": "",
     "dependencies": {
         "device": "*",
